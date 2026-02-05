@@ -1,1 +1,1 @@
-# cursor_clone_project
+cursore clone project
