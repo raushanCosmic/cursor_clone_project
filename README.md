@@ -10,4 +10,4 @@ When you clone this project, you might see a rearrangement of HTML elements beca
 
 The given image gives you an idea of how this clone looks on my laptop.
 
-![Alt text](https://example.com/link/to/image.png)
+![Alt text](https://github.com/CosmicRaushan/cursor_clone_project/blob/0cfc760c4db8e6f1e1d5a88e5ac58c8ad5b2f6e9/screencapture-127-0-0-1-5500-cursor-clone-project-src-index-html-2026-02-06-20_38_15.png)
